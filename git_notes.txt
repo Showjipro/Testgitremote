@@ -1,0 +1,41 @@
+https://github.com/Showjipro/JenkinsGItTest.git
+git@github.com:Showjipro/JenkinsGItTest.git
+
+
+c28fea42ecd51d007f51c250001ffe57405dfd35
+
+
+git log 108dcfaa92ab97c86b028c5664778e8f4b2c897b --name-status
+
+git tag -a v1.1 -m "tag message"
+
+git checkout
+
+---revison range
+git log c28fea42ecd51d007f51c250001ffe57405dfd35,32ce3c1b4057eb0db1eeef522767f6221e8f99ca --name-status
+
+git.exe tag -a v1.1 -m "tag message" ssh://fidelity@SERVER2-VM37/ICW/home/test
+
+GIT_HOME
+C:\Program Files (x86)\Git\cmd\git.exe
+
+HOME
+C:\Windows\SysWOW64\config\systemprofile
+
+PATH
+C:\link
+
+server2-vm37\fidelity
+git@server2-vm37.asl.mum.sst.com:test
+
+git ls-remote git@server2-vm37.asl.mum.sst.com:/ICW/home/test
+
+
+git ls-remote git@server2-vm37.asl.mum.sst:/ICW/home/test
+
+server2-vm37.asl.mum.sst
+
+
+172.22.31.142   server2-vm37.asl.mum.sst
+
+ Could not resolve hostname : no address associated with name
